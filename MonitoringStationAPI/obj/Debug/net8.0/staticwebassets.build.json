@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "lwpQQtp1s8o+wIxgFK1PQGfvooM7y0XoW2BZKhkiRVY=",
+  "Source": "MonitoringStationAPI",
+  "BasePath": "_content/MonitoringStationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MonitoringStationAPI\\wwwroot",
+      "Source": "MonitoringStationAPI",
+      "ContentRoot": "F:\\Sasiteja\\Environment Monitoring\\MonitoringStationAPI\\wwwroot\\",
+      "BasePath": "_content/MonitoringStationAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

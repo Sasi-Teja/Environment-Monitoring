@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\SensorsAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SensorsAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\Sensors\\TemperatureSensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sensors\\TemperatureSensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\Sensors\\Co2EmissionSensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sensors\\Co2EmissionSensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\Sensors\\HumiditySensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sensors\\HumiditySensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\Sensors\\AirpollutionSensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sensors\\AirpollutionSensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\Sensors\\RainfallSensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sensors\\RainfallSensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\SensorsAPI\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SensorsAPI\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\SensorsAPI\\Controllers\\SensorsAPIController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SensorsAPI\\Controllers\\SensorsAPIController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\SensorsAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\SensorsAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "SensorsAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:52:00.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\SensorsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\SensorsAPI\\Program.cs",
+              "RelativeToolTip": "SensorsAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:48:08.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SensorsAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\SensorsAPI\\Controllers\\SensorsAPIController.cs",
+              "RelativeDocumentMoniker": "SensorsAPI\\Controllers\\SensorsAPIController.cs",
+              "ToolTip": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\SensorsAPI\\Controllers\\SensorsAPIController.cs",
+              "RelativeToolTip": "SensorsAPI\\Controllers\\SensorsAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:37:26.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Co2EmissionSensor.cs",
+              "DocumentMoniker": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\Sensors\\Co2EmissionSensor.cs",
+              "RelativeDocumentMoniker": "Sensors\\Co2EmissionSensor.cs",
+              "ToolTip": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\Sensors\\Co2EmissionSensor.cs",
+              "RelativeToolTip": "Sensors\\Co2EmissionSensor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:08:21.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AirpollutionSensor.cs",
+              "DocumentMoniker": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\Sensors\\AirpollutionSensor.cs",
+              "RelativeDocumentMoniker": "Sensors\\AirpollutionSensor.cs",
+              "ToolTip": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\Sensors\\AirpollutionSensor.cs",
+              "RelativeToolTip": "Sensors\\AirpollutionSensor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:07:54.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HumiditySensor.cs",
+              "DocumentMoniker": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\Sensors\\HumiditySensor.cs",
+              "RelativeDocumentMoniker": "Sensors\\HumiditySensor.cs",
+              "ToolTip": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\Sensors\\HumiditySensor.cs",
+              "RelativeToolTip": "Sensors\\HumiditySensor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:07:32.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RainfallSensor.cs",
+              "DocumentMoniker": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\Sensors\\RainfallSensor.cs",
+              "RelativeDocumentMoniker": "Sensors\\RainfallSensor.cs",
+              "ToolTip": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\Sensors\\RainfallSensor.cs",
+              "RelativeToolTip": "Sensors\\RainfallSensor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:07:12.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemperatureSensor.cs",
+              "DocumentMoniker": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\Sensors\\TemperatureSensor.cs",
+              "RelativeDocumentMoniker": "Sensors\\TemperatureSensor.cs",
+              "ToolTip": "C:\\Users\\Sasiteja Kalakurthi\\OneDrive\\Desktop\\Environment Monitoring\\Sensors\\TemperatureSensor.cs",
+              "RelativeToolTip": "Sensors\\TemperatureSensor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:27:36.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

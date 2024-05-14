@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MonitoringStationAPI",
+    "\\MonitoringStationAPI\\Controllers",
+    "\\SensorsAPI\\Controllers",
+    "\\Solution"
+  ],
+  "SelectedNode": "\\MonitoringStationAPI\\Controllers\\MonitoringStationAPIController.cs",
+  "PreviewInSolutionExplorer": false
+}
